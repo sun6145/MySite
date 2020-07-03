@@ -1,6 +1,6 @@
 baseURL = "https://sun6145.github.io/"
 languageCode = "zh-CN"
-title = "My New Hugo Site"
+title = "富良的博客"
 Theme = 'LoveIt'
 # [en, zh-cn, fr, pl, ...] determines default content language
 defaultContentLanguage = "zh-cn"
@@ -115,7 +115,7 @@ defaultContentLanguage = "zh-cn"
       # LOGO 的 URL
       logo = "/favicon.ico"
       # 标题名称
-      name = "富良的站点"
+      name = "富良的博客"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
